@@ -1,5 +1,4 @@
 - Hi 👋, I'm Pratik Simkhada.
--🌱 I’m currently learning Rust.
 -📫 How to reach me simkhadapratik24@gmail.com
 
 
